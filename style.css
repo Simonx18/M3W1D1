@@ -1,0 +1,43 @@
+.jumbotron h1 {
+color: blueviolet;
+}
+
+.nav > * {
+color:aqua;
+}
+
+.jumbotron a.font-weight-bold {
+color: red;
+}
+
+.blog-main .blog-post:first-of-type {
+    color: yellowgreen;
+}
+
+.blog-main hr {
+    border-color: red;
+}
+
+.nav span:nth-child(even) {
+    color: orange;
+}
+
+.list-unstyled.mb-0 li {
+    background-color: yellow;
+}
+
+main > div:nth-child(3) li:nth-child(2) {
+   
+}
+
+a.float-right.mb-3.mr-3 {
+    background-color: green;
+}
+
+a.btn.btn-outline-secondary.disabled {
+    background-color: red;
+}
+
+.footer a:nth-child(2) {
+
+}
